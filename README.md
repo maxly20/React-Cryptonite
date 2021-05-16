@@ -4,7 +4,7 @@ A React App to keep track of Crypto Currency and their values, built with React,
 
 Deployed live at 
 
-![](SitePreview.jpg)
+![](SitePreview.png)
 
 ## Getting Started with Create React App
 
