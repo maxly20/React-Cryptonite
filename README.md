@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# Cryptonite
+
+A React App to keep track of Crypto Currency and their values, built with React, axios, using coingecko API, deployed with Netlify.
+
+Deployed live at 
+
+![](SitePreview.jpg)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
