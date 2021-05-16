@@ -5,6 +5,7 @@
   flex-wrap: wrap;
   margin-top: 30px;
   color: #fff;
+  padding: 0 5rem;
 }
 
 .header {
@@ -24,6 +25,9 @@
 }
 
 @media (max-width: 520px) {
+  .coinsContainer {
+    padding: 0 1rem;
+  }
   .header {
     flex-direction: column;
     justify-content: center;
