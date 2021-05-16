@@ -2,7 +2,7 @@
 
 A React App to keep track of Crypto Currency and their values, built with React, axios, using coingecko API, deployed with Netlify.
 
-Deployed live at 
+Deployed live at https://maxly-cryptonite.netlify.app
 
 ![](SitePreview.png)
 
